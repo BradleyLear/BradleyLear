@@ -1,5 +1,5 @@
  👋 Hi, I’m @BradleyLear
-- My interests are in - Environmental Science, Atmospheric Science, Meteorology, Astronomy, Astrobiology, Soil Science. 
+- My interests are in - Atmospheric Modelling, Atmospheric Science, Planetary Science, Meteorology, Astronomy, Astrobiology, Environmental Science, Soil Science. 
 - I’m currently studying an MPhil at the University of Manchester in Atmospheric Science. 
 
 - bradley.lear@postgrad.manchester.ac.uk
